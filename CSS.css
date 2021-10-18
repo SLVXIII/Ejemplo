@@ -1,0 +1,27 @@
+#contenedor{
+    background-color: wheat;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    align-items: stretch;
+}
+
+#caja1{
+    width: 100px;
+    background-color:#F5B7B1;
+}
+
+#caja2{
+    width: 100px;
+    background-color:#D2B4DE;
+}
+
+#caja3{
+    width: 100px;
+    background-color:#AED6F1;
+}
+
+#caja4{
+    width: 100px;
+    background-color:#A2D9CE;
+}
